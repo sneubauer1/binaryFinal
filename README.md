@@ -8,5 +8,6 @@ Developed in a Linux environment
 
 To run the Make file:
   type make in the terminal
+  
   then to run the program: ./excBinaryFile
  
