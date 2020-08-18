@@ -1,4 +1,4 @@
-# binaryFinal
+# binarySearch
 Changes data into binary and then searches for employee records based on Department, EmployeeID, and Name
 
 Uses a mergesort with nlog(n) complexity
